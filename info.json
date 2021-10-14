@@ -1,9 +1,9 @@
 {
-  "name": "Extended underground belts",
+  "name": "Rotational energy",
   "version": "0.1.0",
-  "title": "Extended underground belts",
+  "title": "Rotation Energy Mod",
   "author": "cubicgraphics",
   "factorio_version": "1.1",
   "dependencies": ["base >= 1.1"],
-  "description": "This mod adds in long underground pipes and long underground belts."
+  "description": "This mod adds in rotational energy to the game"
 }
